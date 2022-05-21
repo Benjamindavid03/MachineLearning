@@ -1,4 +1,4 @@
-,Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
+ID,Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
 0,Bulbasaur,"['Grass', 'Poison']",318,45,49,49,65,65,45
 1,Ivysaur,"['Grass', 'Poison']",405,60,62,63,80,80,60
 2,Venusaur,"['Grass', 'Poison']",525,80,82,83,100,100,80
