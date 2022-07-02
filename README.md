@@ -1,2 +1,4 @@
 # Machine Learning
-Machine Learning Lab exercises and Additional Code
+Machine Learning code in python
+
+All of them are created using Google Colab.
